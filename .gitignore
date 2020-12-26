@@ -3,5 +3,6 @@ __pycache__/
 .vscode/
 
 
+bee_tech/
 beetech/
 venv/
